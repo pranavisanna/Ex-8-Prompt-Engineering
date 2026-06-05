@@ -28,6 +28,8 @@ Screenshots of generated scenes
 Comparison between simple and detailed prompts 
 
 Observations and analysis
+
+
 https://drive.google.com/file/d/1HO1G8rDGkHt_9Wc7-n0zrt6pEw7pnYD_/view?usp=drivesdk
 
 
